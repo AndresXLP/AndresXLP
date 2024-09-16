@@ -1,12 +1,11 @@
-# Andres Puello
+# Andres Puello [![wakatime](https://wakatime.com/badge/user/113c97f2-7e7a-4a99-a8bc-218c8bf77f90.svg?style=plastic)](https://wakatime.com/@113c97f2-7e7a-4a99-a8bc-218c8bf77f90?style=plastic)
 
 I'm Andrés Puello, software developer 👨‍💻. Passionate about backend development.
 
 ## Main Languages
 
 - [Go](https://go.dev/) _(Advanced)_
-- [JavaScript](https://www.javascript.com/) _(Medium)_
-- [Java](https://www.java.com/) _(Basic)_
+- [Python](https://www.python.org/) _(Advanced)_
 - [SQL](https://www.w3schools.com/sql/) _(Advanced)_
 - [NoSQL](https://en.wikipedia.org/wiki/NoSQL) _(Advanced)_
 
@@ -53,7 +52,7 @@ I'm Andrés Puello, software developer 👨‍💻. Passionate about backend dev
 </p>
 
 <a href="https://github.com/AndresXLP">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresxlp&layout=compact&theme=dark&hide=css,html&exclude_repo=Rifalo-Front-End" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresxlp&layout=compact&theme=dark&hide=java,javascript,plpgsql,css,html&exclude_repo=Rifalo-Front-End" />
 </a>
 
 ## Contact
